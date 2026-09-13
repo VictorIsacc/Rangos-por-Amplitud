@@ -1,0 +1,33 @@
+{
+  "id": "./?pwa_id=vigabar-rango-amplitud-456-6x49",
+  "name": "Rango por amplitud 4·5·6 — Bonoloto",
+  "short_name": "Rango 4·5·6",
+  "description": "Análisis 6/49 de amplitud, rangos, terminaciones, suma residuo y continuación LI.",
+  "lang": "es-ES",
+  "start_url": "./?pwa_id=vigabar-rango-amplitud-456-6x49",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#090e1a",
+  "theme_color": "#0b1020",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
